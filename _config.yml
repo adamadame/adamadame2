@@ -1,13 +1,12 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Adam Adame
+url: "adamada.me"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
-footer: yes
+footer: no
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
@@ -16,9 +15,9 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Essays"
+   link: "researcher"
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: "about"
  - name: "Contact"
    link: "contact"
